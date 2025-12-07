@@ -1,0 +1,6 @@
+{
+  "workspace.library": [
+    "C:/path/to/love2d"
+  ],
+  "diagnostics.globals": ["love"]
+}
